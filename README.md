@@ -8,4 +8,4 @@
 </ul>
 <br>
 더 자세한 내용이 궁금하다면? 
-[supinkim의 깃허브 블로그 확인하기][https://supinkim.github.io/]
+[supinkim의 깃허브 블로그 확인하기]:https://supinkim.github.io/ "Go blog"
