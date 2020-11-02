@@ -7,4 +7,4 @@
   <li>역할 : 기획 및 개발(화면 구성 및 코드 작성)</li>
 </ul>
 <br><br>
-#####더 자세한 내용이 궁금하다면? Supinkim's Blog => https://supinkim.github.io 에서 개발일지를 확인해주세요.
+<h6>더 자세한 내용이 궁금하다면? Supinkim's Blog => https://supinkim.github.io 에서 개발일지를 확인해주세요.</h6>
