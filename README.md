@@ -9,5 +9,5 @@
 <br>
 더 자세한 내용이 궁금하다면? 
 [SUPINKIM's Blog][link]
-[link]:https://supinkim.github.io/ "Go blog"
+[link]: https://supinkim.github.io/ "Go blog"
 
