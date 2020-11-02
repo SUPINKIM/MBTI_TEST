@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_mbti">
+        <item>ISTP</item>
+        <item>ISTJ</item>
+        <item>ISFP</item>
+        <item>ISFJ</item>
+        <item>INTP</item>
+        <item>INTJ</item>
+        <item>INFP</item>
+        <item>INFJ</item>
+        <item>ESTP</item>
+        <item>ESTJ</item>
+        <item>ESFP</item>
+        <item>ESFJ</item>
+        <item>ENTP</item>
+        <item>ENTJ</item>
+        <item>ENFP</item>
+        <item>ENFJ</item>
+    </string-array>
+
+</resources>
