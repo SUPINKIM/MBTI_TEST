@@ -8,4 +8,4 @@
 </ul>
 <br>
 더 자세한 내용이 궁금하다면? 
-[SUPINKIM's Blog](https://supinkim.github.io)
+<a href="https://supinkim.github.io" alt="SUPINKIM's Blog">
