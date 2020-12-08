@@ -8,3 +8,4 @@
 </ul>
 <br>
 <h6>더 자세한 내용이 궁금하다면? Supinkim's Blog => https://supinkim.github.io 에서 개발일지를 확인해주세요.</h6>
+<h6>아친을 다운 받고 싶다면? [구글 플레이스토어 다운로드](https://play.google.com/store/apps/details?id=com.donggi.mbtitest)</h6>
